@@ -1,9 +1,9 @@
-# Vit-riaEmily-
+### Olá Pessoal, sou Vitóra Emily, sejam muito bem-vindos ao meu GitHub!!! 👋
 
 <div align="center">
-  <a href="https://github.com/professorlozano">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=professorlozano&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorlozano&layout=compact&theme=radical"/>
+  <a href="https://github.com/ViihEmily">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViihEmily&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViihEmily&layout=compact&theme=radical"/>
 </div>
 
 ##
