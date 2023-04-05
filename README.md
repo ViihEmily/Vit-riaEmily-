@@ -26,7 +26,7 @@
   ##
   
   <div align="center">
-  <h2>🎓 Formação em curso técnico 🎓</h2>
+  <h2>🎓 Formação em curso técnico e Cursando Análise e Desenvolvimento de Sistemas 🎓</h2>
 
     
 </div>
